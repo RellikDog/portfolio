@@ -8,11 +8,24 @@ Finish time: 8pm
 
 Actual time needed to complete: 2.5hours
 
+
+
 Number and name of feature: 2 Modify the contents
 
 Estimate of time needed to complete: 5hours
 
 Start time: 8pm
+Finish time: _____
+
+Actual time needed to complete: _____
+
+
+
+Number and name of feature: lab5 featur1 add functionality
+
+Estimate of time needed to complete: 3 hours
+
+Start time: 2pm
 Finish time: _____
 
 Actual time needed to complete: _____

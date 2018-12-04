@@ -1,4 +1,4 @@
-@import url("font-awesome.min.css");
+@import url("https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css");
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /*
@@ -7,7 +7,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
-/* html, body, div, span, applet, object,
+html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
 code, del, dfn, em, img, ins, kbd, q, s, samp,
@@ -70,10 +70,10 @@ input, select, textarea {
 	-webkit-appearance: none;
 	-ms-appearance: none;
 	appearance: none;
-} */
+}
 
 /* Basic */
-/* 
+
 	html {
 		box-sizing: border-box;
 	}
@@ -208,9 +208,9 @@ input, select, textarea {
 
 	br.clear {
 		clear: both;
-	} */
+	}
 
-/* Container
+/* Container */
 
 	.container {
 		margin: 0 auto;
@@ -256,11 +256,11 @@ input, select, textarea {
 				width: 100%;
 			}
 
-		} */
+		}
 
 /* Row */
 
-	/* .row {
+	.row {
 		display: flex;
 		flex-wrap: wrap;
 		box-sizing: border-box;
@@ -1724,9 +1724,9 @@ input, select, textarea {
 							padding-top: 40px;
 						}
 
-		} */
+		}
 
-/* Sections/Article
+/* Sections/Article */
 
 	section, article {
 		margin-bottom: 3em;
@@ -1740,9 +1740,9 @@ input, select, textarea {
 
 		.row > section, .row > article {
 			margin-bottom: 0;
-		} */
+		}
 
-/* Image
+/* Image */
 
 	.image {
 		display: inline-block;
@@ -1789,9 +1789,9 @@ input, select, textarea {
 			.image.centered img {
 				margin: 0 auto;
 				width: auto;
-			} */
+			}
 
-/* List
+/* List */
 
 	ul {
 		list-style: disc;
@@ -1809,10 +1809,10 @@ input, select, textarea {
 
 		ol li {
 			padding-left: 0.25em;
-		} */
+		}
 
 /* Icons */
-/*
+
 	ul.icons {
 		cursor: default;
 		list-style: none;
@@ -1831,9 +1831,9 @@ input, select, textarea {
 			line-height: 2em;
 			text-align: center;
 			border: 0;
-		} */
+		}
 
-/* Form
+/* Form */
 
 	form label {
 		display: block;
@@ -1902,9 +1902,9 @@ input, select, textarea {
 
 	form ::-moz-focus-inner {
 		border: 0;
-	} */
+	}
 
-/* Table
+/* Table */
 
 	table {
 		width: 100%;
@@ -1933,9 +1933,9 @@ input, select, textarea {
 
 		table tfoot {
 			background: #eee;
-		} */
+		}
 
-/* Button
+/* Button */
 
 	input[type="button"],
 	input[type="submit"],
@@ -1975,9 +1975,9 @@ input, select, textarea {
 		button:active,
 		.button:active {
 			background-color: #7eaeac;
-		} */
+		}
 
-/* Item
+/* Item */
 
 	.item {
 		box-shadow: 0 0.05em 0.15em 0 rgba(0, 0, 0, 0.05);
@@ -1993,9 +1993,9 @@ input, select, textarea {
 
 			.item header h3 {
 				font-size: 1em;
-			} */
+			}
 
-/* Icons
+/* Icons */
 
 	.icon {
 		text-decoration: none;
@@ -2018,7 +2018,7 @@ input, select, textarea {
 		}
 
 /* Header */
-/*
+
 	#header {
 		display: -moz-flex;
 		display: -webkit-flex;
@@ -2156,9 +2156,9 @@ input, select, textarea {
 
 					#nav ul li a.active span:before {
 						color: #e27689;
-					} */
+					}
 
-/* Footer
+/* Footer */
 
 	#footer {
 		margin-left: 375px;
@@ -2186,10 +2186,10 @@ input, select, textarea {
 					border-left: 0;
 					padding-left: 0;
 					margin-left: 0;
-				} */
+				}
 
 /* Main */
-/* 
+
 	#main {
 		margin-left: 375px;
 	}
@@ -2247,7 +2247,7 @@ input, select, textarea {
 
 			#main > section.four {
 				background-color: #e8edec;
-			} */
+			}
 
 /* Wide */
 
